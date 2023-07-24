@@ -1,0 +1,15 @@
+
+.universe-link {
+  font-weight: bold;
+  font-size: 2.4rem;
+  color: white;
+  font-size: clamp(2.167rem, calc(6rem - 5vw), 4rem); 
+}
+
+.universe-link:hover{
+  color: rgb(240, 240, 240);
+}
+
+body{
+  background-image: url("/assets/mountains-universe02.png");
+}

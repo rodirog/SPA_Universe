@@ -1,0 +1,83 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  
+  min-height: 100vh;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+
+  color: #E1E1E6;
+}
+
+nav {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+
+  padding-top: 4rem;
+  padding-left: 7.2rem;
+  margin-right: 7.2rem;
+  min-width: 82rem;
+
+  white-space: nowrap;
+}
+
+a {
+  text-decoration: none;
+  color: #C4C4CC;
+
+  font-weight: 400;
+  font-size: 2.14rem;
+  line-height: 2.17rem;
+
+  font-size: clamp(2.167rem, calc(6rem - 5vw), 4rem); 
+}
+
+a:hover{
+  color: #a9a9af;
+}
+
+
+h1{
+  font-weight: bold;
+  font-size: 4.8rem;
+  line-height: 125%;
+  font-size: clamp(4.8rem, calc(11rem - 8vw), 11rem); 
+  
+  white-space: nowrap;
+}
+
+p{
+  line-height: 160%;
+  font-size: clamp(1.8rem, calc(4.5rem - 5vw), 4rem); 
+}
+
+#app {
+  min-width: 72rem;
+
+  margin-right: 15rem;
+}
+
+.universe-wrapper, .explore-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(1.6rem, calc(6rem - 5vw), 4rem); 
+
+  margin-top: 10.3rem;
+  margin-left: 10.2rem;
+
+  max-width: 64.8rem;
+}

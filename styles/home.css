@@ -1,0 +1,62 @@
+
+.home-link{
+  font-weight: bold;
+  color: white;
+  font-size: 2.4rem;
+  font-size: clamp(2.167rem, calc(6rem - 5vw), 4rem); 
+}
+
+.home-link:hover{
+  color: rgb(240, 240, 240);
+}
+
+body{
+  background-image: url("/assets/mountains-universe-1.png");
+}
+
+.home-wrapper {
+  display:grid;
+  place-items: center;
+  gap: 2.4rem;
+
+  position: fixed;
+  top:  50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+button{
+  background: transparent;
+  border: 2px solid white;
+  border-radius: 0.5rem;
+
+  padding-top: clamp(1.3rem, calc(5rem - 5vw), 4rem);
+  padding-bottom: clamp(1.3rem, calc(5rem - 5vw), 4rem);
+}
+
+.button-link{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: clamp(1.4rem, calc(4rem - 5vw), 4rem);
+  color: white;
+
+  text-transform: uppercase;
+  line-height: 2.4rem;
+  white-space: nowrap;
+
+  padding-right: clamp(3.2rem, calc(8rem - 5vw), 6rem);
+  padding-left: clamp(3.2rem, calc(8rem - 5vw), 6rem);
+  padding-top: clamp(1.8rem, calc(5.5rem - 5vw), 4rem);
+  padding-bottom: clamp(1.8rem, calc(5.5rem - 5vw), 4rem);
+
+  cursor: pointer;
+
+  transition-property: color, background-color;
+  transition-duration: 0.2s;
+}
+
+.button-link:hover{
+  color: #02799D;
+  
+  background-color: white;
+}
