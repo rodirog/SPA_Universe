@@ -6,21 +6,21 @@
 A responsive SPA about the universe recreated from an existing Figma design
 
 ## 🚀 Executing the project
-Download [Node.js](https://nodejs.org/en) if you don't have it
+- Download [Node.js](https://nodejs.org/en) if you don't have it
 
-Clone the project and access the folder
+- Clone the project and access the folder:
 
 ```bash
 git clone https://github.com/rodirog/Single-Page-Application.git
 cd SPA-universe
 ```
 
-Run this command to install the dependencies
+- Run this command to install the dependencies:
 ```bash
 npm install
 ```
 
-Run this command to run the project
+- Run this command to execute the project:
 ```bash
 npm start
 ```
