@@ -5,7 +5,7 @@
 ## 💻 About the project
 A responsive SPA about the universe recreated from an existing Figma design
 
-##🚀 Executing the project
+## 🚀 Executing the project
 Download [Node.js](https://nodejs.org/en) if you don't have it
 
 Clone the project and access the folder
