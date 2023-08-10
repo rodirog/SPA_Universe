@@ -1,4 +1,4 @@
-# Single Page Application
+# 🌌 Single Page Application
 ![ezgif com-video-to-gifa](https://github.com/rodirog/Single-Page-Application/assets/101756238/f8b85901-ccfa-4fe1-9673-ffd98c1b378f)
 
 
