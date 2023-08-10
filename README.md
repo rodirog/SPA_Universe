@@ -1,5 +1,6 @@
 # Single Page Application
-![ezgif com-video-to-gif (1)](https://github.com/rodirog/Single-Page-Application/assets/101756238/9e11a32e-1b50-4290-a21c-9404836d7158)
+![ezgif com-video-to-gifa](https://github.com/rodirog/Single-Page-Application/assets/101756238/f8b85901-ccfa-4fe1-9673-ffd98c1b378f)
+
 
 ## 💻 About the project
 A responsive SPA about the universe recreated from an existing Figma design
