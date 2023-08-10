@@ -5,6 +5,16 @@
 ## 💻 About the project
 A responsive SPA about the universe recreated from an existing Figma design
 
+## 🧪 Made using:
+
+- JavaScript
+- Node.js
+- SPA concepts
+- Routes
+- Promises
+- Object orientation
+- Classes
+
 ## 🚀 Executing the project
 - Download [Node.js](https://nodejs.org/en) if you don't have it
 
@@ -23,16 +33,6 @@ npm install
 ```bash
 npm start
 ```
-
-## 🧪 Made using:
-
-- JavaScript
-- Node.js
-- SPA concepts
-- Routes
-- Promises
-- Object orientation
-- Classes
 
 ## 🔖 Layout
 You can view the layout through [this link](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate) (Figma account is required for access)
