@@ -12,8 +12,6 @@ A responsive SPA about the universe recreated from an existing Figma design
 
 ```bash
 git clone https://github.com/rodirog/Single-Page-Application.git
-
-cd SPA-universe
 ```
 
 - Run this command to install the dependencies:
